@@ -12,7 +12,7 @@ namespace test_git_hub
         {
             Console.WriteLine("Ola mundo!");
             Console.WriteLine("bom dia!");
-            Console.WriteLine("como vc está hoje?");
+            Console.WriteLine("tenha um bom dia!");
         }
     }
 }
