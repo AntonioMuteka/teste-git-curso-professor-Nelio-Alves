@@ -11,6 +11,8 @@ namespace test_git_hub
         static void Main(string[] args)
         {
             Console.WriteLine("Ola mundo!");
+            Console.WriteLine("bom dia!");
+            Console.WriteLine("como vc está hoje?");
         }
     }
 }
